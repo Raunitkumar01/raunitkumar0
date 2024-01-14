@@ -1,8 +1,10 @@
+
+
 <h1 align="center">Hi 👋, I'm Raunit kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+https://images.app.goo.gl/QL9vg5xLaL5QH16y9
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raunitkumar01&label=Profile%20views&color=0e75b6&style=flat" alt="raunitkumar01" /> </p>
-
+https://www.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_39402473.htm
 - 🔭 I’m currently working on **c\c++ programme**
 
 - 🌱 I’m currently learning **c language**
